@@ -9,7 +9,9 @@ Pixel-wise losses, e.g., cross-entropy or L2, have been widely used in structure
 as a spatial extension of generic image classiﬁcation or regression. However, its i.i.d. assumption 
 neglects the structural regularity present in natural images. Various attempts have been made to 
 incorporate structural reasoning mostly through structure priors in a cooperative way where co-occurring 
-patterns are encouraged. We, on the other hand, approach this problem from an opposing angle and propose 
+patterns are encouraged. 
+
+We, on the other hand, approach this problem from an opposing angle and propose 
 a new framework, Adversarial Structure Matching (ASM), for training such structured prediction networks 
 via an adversarial process, in which we train a structure analyzer that provides the supervisory signals, 
 the ASM loss. The structure analyzer is trained to maximize the ASM loss, or to emphasize recurring multiscale 
