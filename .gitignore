@@ -1,0 +1,7 @@
+# cache dirs
+snapshots/
+__pycache__/
+
+# cache files
+*.swp
+*.pyc

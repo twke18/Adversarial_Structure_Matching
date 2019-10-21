@@ -1,0 +1,1 @@
+area_1/data/{:s}/camera_c6655e566bca4de983fc3affab814587_hallway_2_frame_33_domain_{:s}.png
