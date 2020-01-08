@@ -22,7 +22,7 @@ and improves boundary localization. We demonstrate that our ASM outperforms pixe
 prior GAN loss on three different structured prediction tasks: semantic segmentation, monocular depth 
 estimation, and surface normal prediction.
 
-ASM is published in CVPR 2019, see [our paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Hwang_Adversarial_Structure_Matching_for_Structured_Prediction_Tasks_CVPR_2019_paper.pdf) for more details.
+ASM is published in CVPR 2019, see [our paper](https://arxiv.org/abs/1805.07457) for more details.
 
 ## Prerequisites
 
