@@ -113,15 +113,15 @@ bash bashscripts/stanford_scenes/normal/train_asm.sh
 ```
 
 ## Citation
-If you find this code useful for your research, please consider citing our paper [Adversarial Structure Matching for Structured Prediction Tasks]().
+If you find this code useful for your research, please consider citing our paper [Adversarial Structure Matching for Structured Prediction Tasks](https://arxiv.org/abs/1805.07457).
 
 ```
 @inproceedings{asm2019,
- author = {Hwang, Jyh-Jing and Ke, Tsung-Wei and Shi, Jianbo and Yu, Stella X.},
- title = {Adversarial Structure Matching for Structured Prediction Tasks},
- booktitle = {Computer Vision and Pattern Recognition (CVPR)},
- month = {June},
- year = {2019} 
+  title={Adversarial Structure Matching for Structured Prediction Tasks},
+  author={Hwang, Jyh-Jing and Ke, Tsung-Wei and Shi, Jianbo and Yu, Stella X},
+  booktitle={Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition},
+  pages={4056--4065},
+  year={2019}
 }
 ```
 
